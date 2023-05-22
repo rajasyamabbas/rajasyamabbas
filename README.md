@@ -29,10 +29,7 @@ My name is Raja Syam, On my GitHub profile, you'll find a collection of my proje
 
 ## 🌐 Other Stuff
 - [LinkedIn](https://www.linkedin.com/in/raja-syam-abbas-shagir/)
-- [Tableau Public](https://public.tableau.com/app/profile/raja.syam)
-- [Maven Analytics](https://www.mavenanalytics.io/profile/Raja-syam/168024767)
 - [Instagram](https://instagram.com/rajasyamabbas)
-- [My Resume](https://docs.google.com/document/d/1i_LsYzyvbIuO16Wt0rTiHJuL2o3c7XIo/edit?usp=share_link&ouid=104789032723395832123&rtpof=true&sd=true)
 - [YouTube](https://youtube.com/@syam-data)
 
 <!---
