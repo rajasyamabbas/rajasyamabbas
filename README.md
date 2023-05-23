@@ -16,8 +16,12 @@ My name is Raja Syam, On my GitHub profile, you'll find a collection of my proje
 - [Library Database with Python](https://github.com/Syamabbas/program-database-perpustakaan/tree/main) (Python Project)
 
 ## ⚡ Core Competencies
-- Tools: Excel, SQL, Tableau, Google Data Studio, Python
-- Skills: Data Cleaning, Data Visualization, Data Analysis, Relational Database
+- Programming Language: <br>
+  PHP, Pyhton, Java, SQL, R
+- Framework: <br>
+  Django, Laravel
+- Databases: <br>
+  MySQL, Oracle, MongoDB
 
 ## 📑 Certification
 - Google Data Analytics Certification ([link](https://www.coursera.org/account/accomplishments/specialization/certificate/ULTFRBGFC7R5))
