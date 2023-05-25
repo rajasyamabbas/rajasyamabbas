@@ -10,10 +10,10 @@ My name is Raja Syam, On my GitHub profile, you'll find a collection of my proje
 ## 👨🏼‍💻 Projects
 - *[Employee Analytics](https://public.tableau.com/app/profile/raja.syam/viz/EmployeeAnalysis_16836985855960/Dashboard1) (Tableau Project)*
 - *[Customer E-commerce Analysis](https://public.tableau.com/app/profile/raja.syam/viz/CustomerAnalysis_16836434866530/Dashboard1) (Tableau Project)*
-- *[Bank Customer Segmentation](https://public.tableau.com/app/profile/raja.syam/viz/BankCustomerSegmentation_16828303955170/Storyline) (Tableau Project)*
 - [Signup & Login System](https://github.com/rajasyamabbas/signup-login-system)
-- [Hotel Bookings](https://github.com/Syamabbas/hotel-bookings/tree/main)
 - [Library Database with Python](https://github.com/Syamabbas/program-database-perpustakaan/tree/main)
+- [To-do-list Program](https://github.com/rajasyamabbas/to-do-list)
+- [Hotel Bookings Data Visualization](https://github.com/Syamabbas/hotel-bookings/tree/main)
 
 ## ⚡ Core Competencies
 - Programming Language: <br>
